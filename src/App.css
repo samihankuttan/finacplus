@@ -1,0 +1,38 @@
+table,
+th,
+td {
+  padding: 5px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+.green-background{
+  background-color: #8bc34a !important;
+}
+
+
+.encryptedDataCss{
+  color: #8bc34a !important;
+  font-size: 25px !important;
+}
+
+.OUTPUTCss{
+  color: #ef5350 !important;
+  font-size: 25px !important;
+  font-weight: bold !important;
+}
+
+.formulaCss{
+  color: #ef5350 !important;
+  font-size: 18px !important;
+}
+
+.marginLeft10{
+  margin-left: 10px !important;
+}
+
+.designStructureCss{
+  width: 750px !important;
+  height: 550px !important;
+}
